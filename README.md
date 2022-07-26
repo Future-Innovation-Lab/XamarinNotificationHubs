@@ -27,7 +27,7 @@ Replace google-services.json file in Android project with file downloaded from F
     }
     
 
-## For Querying NotificatioQuery project
+## For Querying NotificationQuery project
 
 ### Change the DispatcherConstants file with the Notification Hub Name and Full Access Connecting string
 
