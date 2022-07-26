@@ -26,7 +26,8 @@ Replace google-services.json file in Android project with file downloaded from F
         public static string FullAccessConnectionString { get; set; } = "FullAccessConnectionString";
     }
     
-    ## For Querying NotificatioQuery project
+
+## For Querying NotificatioQuery project
 
 ### Change the DispatcherConstants file with the Notification Hub Name and Full Access Connecting string
 
