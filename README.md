@@ -1,12 +1,12 @@
-# XamarinNotificationHubs
+# Xamarin Notification Hubs
 
 ## For Registering and Receiving Push Notifications use the Xamarin.Forms Project in NotificationSamples
 
 ### Change the AppConstants file with the Notification Hub Name and Listen Connecting string
 
- public static string NotificationHubName { get; set; } = "NotificationHubName";
+public static string NotificationHubName { get; set; } = "NotificationHubName";
 
- public static string ListenConnectionString { get; set; } = "ListenConnectionString";
+public static string ListenConnectionString { get; set; } = "ListenConnectionString";
 
 Replace google-services.json file in Android project with file downloaded from Firebase portal
 
